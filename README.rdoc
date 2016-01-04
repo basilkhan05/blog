@@ -1,8 +1,8 @@
-# Ruby on Rails Blog
+Ruby on Rails Blog
 
 This was used as a test to construct a basic blog like application on Ruby on Rails with the basic CRUD functionality.
 
----
+-----
 
 Test Rails Blog App - Mashrur
 
